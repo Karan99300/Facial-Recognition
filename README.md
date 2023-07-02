@@ -11,3 +11,7 @@ license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+Facial Recognition Project:
+Trained on faces of Lionel Messi,Cristiano Ronaldo and Neymar JR. Dataset created on https://roboflow.com/ .
+
