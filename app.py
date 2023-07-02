@@ -10,7 +10,7 @@ detection_threshold=0.85
 
 
 model=FasterRCNN(num_classes=num_classes)
-model.load_state_dict(torch.load('faster_rcnn.pth'))
+model.load_state_dict(torch.load('faster_rcnn.pth',map_location="cpu"))
 model.eval()
 
 
