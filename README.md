@@ -16,5 +16,5 @@ Facial Recognition Project:
 Trained on faces of Lionel Messi,Cristiano Ronaldo and Neymar JR. Dataset created on https://roboflow.com/ .
 
 Deployed using gradio:
-Space Link: https://huggingface.co/spaces/karan99300/Facial-Recognition
+Space Link: https://huggingface.co/spaces/karan99300/Facial-Recognition-using-FasterRCNN
 
